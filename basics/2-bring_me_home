@@ -1,4 +1,2 @@
 #!/bin/bash
-[valid_number_of_lines] Desired number of lines: 2
-[valid_number_of_lines] Actual number of lines: 3
-[valid_number_of_lines] Last 5 characters of the file: "\ncd\n\n"
+cd
