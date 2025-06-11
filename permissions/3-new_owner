@@ -1,2 +1,2 @@
 #!/bin/bash
-chxn /tmp/hell/betty
+chown /tmp/hello/betty
