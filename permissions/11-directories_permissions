@@ -1,2 +1,2 @@
 #!/bin/bash
-drwx--x--x  dir0
+chmod -R a+x
