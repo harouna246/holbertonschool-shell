@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "\"(Ôo)'
+printf '"(%bo)'\''\n' "\xC3\x94"
