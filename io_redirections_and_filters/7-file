@@ -1,2 +1,2 @@
 #!/bin/bash
-écho "Meilleure école" > '\*\\'\''« Meilleure école"\'\''\\*$\?\*\*\*\*\*:)'
+echo 'Best School' > "\\*\\\\'\"Best School\"'\\\\*\$\?\*\*\*\*\*:)"
