@@ -1,1 +1,2 @@
-
+#!/bin/bash
+for a in {a..z}
